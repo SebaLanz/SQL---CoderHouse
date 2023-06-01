@@ -1,0 +1,13 @@
+Dejar inmueble y transaccion_vehiculo para cargar a lo último ya que son tablaS de transacción de información y contiene FKs.
+Orden para ejecutar:
+categoria_automovil.csv
+marca.csv
+pais.csv
+perfil_permiso.csv
+tipo_inmueble.csv
+tipo_moneda.csv
+------------------------
+inmueble.csv
+transaccion_vehiculo.csv
+usuarios.csv
+vehiculo.csv

@@ -1,0 +1,14 @@
+id_usuario;usuario;clave;email;estado;img_usuario;id_perfil_permiso
+3;'usr1';'3212351';'8299@email.com';1;'a';1
+4;'usr2';'231234';'8299@email.com';1;'a';2
+5;'usr3';'-3212351';'8299@email.com';1;'a';3
+6;'usr4';'-6424702';'8299@email.com';1;'a';1
+7;'usr5';'-9637053';'8299@email.com';1;'a';2
+8;'usr6';'-12849404';'8299@email.com';1;'a';3
+9;'usr7';'-16061755';'8299@email.com';1;'a';1
+10;'usr8';'-19274106';'8299@email.com';1;'a';2
+11;'usr9';'-22486457';'8299@email.com';1;'a';3
+12;'usr0';'-25698808';'8299@email.com';1;'a';1
+13;'usr'';'-28911159';'8299@email.com';1;'a';2
+14;'usr10';'-32123510';'8299@email.com';1;'a';3
+15;'usr11';'-35335861';'8299@email.com';1;'a';1
